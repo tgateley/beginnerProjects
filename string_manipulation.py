@@ -1,0 +1,5 @@
+name = input("Enter your first and last name: ")
+print(f"your name in uppercase: {name.upper()}")
+print(f"Your name in lowercase: {name.lower()}")
+print(f"Total number of characters (excluding spaces): {len(name)-1}")
+print(f"Your name reversed: {name[::-1]}")
