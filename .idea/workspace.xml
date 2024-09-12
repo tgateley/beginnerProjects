@@ -4,23 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2006ce88-0b28-468e-9d78-5ecb15a2d7cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/beginner_projects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/age_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/area_and_perimeter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/even_or_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generate_indexed_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sentences_to_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string_manipulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sum_of_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sum_user_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_sentences.txt" afterDir="false" />
+    <list default="true" id="2006ce88-0b28-468e-9d78-5ecb15a2d7cd" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/calculate_average.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tgateley&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tgateley/beginnerProjects.git&quot;,
+    &quot;accountId&quot;: &quot;5ceeb906-dd53-4aff-86a7-74d7eae29fee&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -50,8 +49,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Python.age_calculator.executor": "Run",
     "Python.area_and_perimeter.executor": "Run",
+    "Python.calculate_average.executor": "Run",
     "Python.even_or_odd.executor": "Run",
     "Python.generate_indexed_list.executor": "Run",
     "Python.sentences_to_file.executor": "Run",
@@ -176,6 +177,19 @@
       <option name="presentableId" value="Default" />
       <updated>1726020076657</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1726028680164</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726028680164</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
